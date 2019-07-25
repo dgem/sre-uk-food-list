@@ -11,3 +11,6 @@ A repository to track the UK SRE teams favourite food spots!
 ## Ramen
 * Kanada-Ya
 * Bone Daddies
+
+## Pizza
+* Pizza Pilgrims
